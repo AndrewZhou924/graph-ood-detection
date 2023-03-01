@@ -31,14 +31,36 @@ NeurIPS 2022. GraphDE: A Generative Framework for Debiased Learning and Out-of-D
 [[code]](https://github.com/Emiyalzn/GraphDE)
 >- Graph-level, Generative, Variational inference.
 
+ICML 2022. Rethinking Graph Neural Networks for Anomaly Detection.
+[[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf)
+[[code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
+
 KDD 2022. Learning on Graphs with Out-of-Distribution Nodes.
 [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539457)
+[[code]](https://github.com/SongYYYY/KDD22-OODGAT)
 >- Node-level with inter-edges, Semi-supervised outlier detection.
 
-ICML workshop 2022: Towards OOD Detection in Graph Classification from Uncertainty Estimation Perspective.
+WSDM 2022. Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation.
+[[paper]](https://arxiv.org/pdf/2112.10063.pdf)
+[[code]](https://github.com/RongrongMa/GLocalKD)
+>- Graph-level, Joint random distillation of graph and node representations with two GNNs.
+
+ICML workshop 2022. Towards OOD Detection in Graph Classification from Uncertainty Estimation Perspective.
 [[paper]](https://arxiv.org/pdf/2206.10691.pdf)
 >- Graph-level, Uncertainty estimation.
 
+NeurIPS 2021. Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification.
+[[paper]](https://proceedings.neurips.cc/paper/2021/file/95b431e51fc53692913da5263c214162-Paper.pdf)
+>- Node-level, Bayesian posterior.
+
+Big Data 2021. On Using Classification Datasets to Evaluate Graph Outlier Detection: Peculiar Observations and New Insights.
+[[paper]](https://arxiv.org/pdf/2012.12931.pdf)
+>- Graph-level, Propagation-based outlier detection.
+
+NeurIPS 2020. Uncertainty Aware Semi-Supervised Learning on Graph Data.
+[[paper]](https://proceedings.neurips.cc/paper/2020/file/968c9b4f09cbb7d7925f38aea3484111-Paper.pdf)
+[[code]](https://github.com/zxj32/uncertainty-GNN)
+>- Node-level, a multi-source uncertainty framework.
 
 ## Other resources
 ### OOD Generalization
