@@ -1,0 +1,1 @@
+# awesome-graph-ood-detection
