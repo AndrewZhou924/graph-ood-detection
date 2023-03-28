@@ -38,7 +38,7 @@ ICML 2022. Rethinking Graph Neural Networks for Anomaly Detection.
 KDD 2022. Learning on Graphs with Out-of-Distribution Nodes.
 [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539457)
 [[code]](https://github.com/SongYYYY/KDD22-OODGAT)
->- Node-level with inter-edges, Semi-supervised outlier detection.
+>- Node-level with inter-edges, Semi-supervised outlier detection, a modified GAT with three regularization terms.
 
 WSDM 2022. Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation.
 [[paper]](https://arxiv.org/pdf/2112.10063.pdf)
@@ -60,7 +60,7 @@ Big Data 2021. On Using Classification Datasets to Evaluate Graph Outlier Detect
 NeurIPS 2020. Uncertainty Aware Semi-Supervised Learning on Graph Data.
 [[paper]](https://proceedings.neurips.cc/paper/2020/file/968c9b4f09cbb7d7925f38aea3484111-Paper.pdf)
 [[code]](https://github.com/zxj32/uncertainty-GNN)
->- Node-level, a multi-source uncertainty framework.
+>- Node-level, a Graph-based Kernel Dirichlet distribution Estimation (GKDE) method.
 
 ## Other resources
 ### OOD Generalization
