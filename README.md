@@ -24,7 +24,7 @@ ICLR 2023. ENERGY-BASED OUT-OF-DISTRIBUTION DETECTION FOR GRAPH NEURAL NETWORKS.
 WSDM 2023. GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection
 [[paper]](https://arxiv.org/pdf/2211.04208.pdf)
 [[code]](https://github.com/yixinliu233/G-OOD-D)
->- Node-level, Self-supervised contrastive learning.
+>- Graph-level, Self-supervised contrastive learning.
 
 NeurIPS 2022. GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs.
 [[paper]](https://openreview.net/pdf?id=mSiPuHIP7t8)
