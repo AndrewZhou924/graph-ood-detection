@@ -12,8 +12,11 @@ Unlike traditional anomaly detection which assumes a small percentage of anomali
 in the graph domain, 
 the OOD part may contain nodes that are comparable in size to the ID part. 
 
-(taken from Learning on Graphs with Out-of-Distribution Nodes, KDD 2022)
+(taken from "Learning on Graphs with Out-of-Distribution Nodes", KDD 2022)
 
+Anomaly graphs are usually malicious samples from a real system and available during train- ing; while OOD graphs are samples from the distribution that the model has not seen during training.
+
+(taken from "A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability", KDD 2023)
 
 ## Recent works
 KDD 2023. A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability.
