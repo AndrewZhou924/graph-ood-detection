@@ -16,6 +16,11 @@ the OOD part may contain nodes that are comparable in size to the ID part.
 
 
 ## Recent works
+KDD 2023. A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability.
+[[paper]](http://shichuan.org/doc/150.pdf)
+[[code]](https://github.com/BUPT-GAMMA/AAGOD)
+>- Graph-level, training without outlier exposure.
+
 ICLR 2023. ENERGY-BASED OUT-OF-DISTRIBUTION DETECTION FOR GRAPH NEURAL NETWORKS.
 [[paper]](https://arxiv.org/pdf/2302.02914.pdf)
 [[code]](https://github.com/qitianwu/GraphOOD-GNNSafe)
