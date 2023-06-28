@@ -28,7 +28,7 @@ KDD 2023. A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Di
 [[code]](https://github.com/BUPT-GAMMA/AAGOD)
 >- Graph-level, training without outlier exposure.
 
-ICLR 2023. ENERGY-BASED OUT-OF-DISTRIBUTION DETECTION FOR GRAPH NEURAL NETWORKS.
+🔥 ICLR 2023. ENERGY-BASED OUT-OF-DISTRIBUTION DETECTION FOR GRAPH NEURAL NETWORKS.
 [[paper]](https://arxiv.org/pdf/2302.02914.pdf)
 [[code]](https://github.com/qitianwu/GraphOOD-GNNSafe)
 >- Node-level with two disconnected graphs, Energy-based score with pagerank-based propagation.
@@ -41,14 +41,15 @@ WSDM 2023. GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection
 ICLR 2023 submission. Revisiting Uncertainty Estimation for Node Classification: New Benchmark and Insights
 [[paper]](https://openreview.net/pdf?id=DB3BH3arU2Y)
 
-NeurIPS 2022. GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs.
+🔥 NeurIPS 2022. GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs.
 [[paper]](https://openreview.net/pdf?id=mSiPuHIP7t8)
 [[code]](https://github.com/Emiyalzn/GraphDE)
 >- Graph-level, Generative, Variational inference.
 
-ICML 2022. Rethinking Graph Neural Networks for Anomaly Detection.
+🔥 ICML 2022. Rethinking Graph Neural Networks for Anomaly Detection.
 [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf)
 [[code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
+>- Anomalies leads to the ‘right-shift’ of spectral energy.
 
 KDD 2022. Learning on Graphs with Out-of-Distribution Nodes.
 [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539457)
@@ -58,7 +59,7 @@ KDD 2022. Learning on Graphs with Out-of-Distribution Nodes.
 WSDM 2022. Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation.
 [[paper]](https://arxiv.org/pdf/2112.10063.pdf)
 [[code]](https://github.com/RongrongMa/GLocalKD)
->- Graph-level, Joint random distillation of graph and node representations with two GNNs.
+>- Graph-level Anomaly Detection, Joint random distillation of graph and node representations with two GNNs.
 
 ICML workshop 2022. Towards OOD Detection in Graph Classification from Uncertainty Estimation Perspective.
 [[paper]](https://arxiv.org/pdf/2206.10691.pdf)
