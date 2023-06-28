@@ -9,8 +9,7 @@ TODO: we need to give a formal definition to the node/link/graph-level OOD detec
 ### Relation to the anomaly detection problem
 
 Unlike traditional anomaly detection, which assumes a small percentage of anomalies, 
-in the graph domain, 
-the OOD part may contain nodes that are comparable in size to the ID part. 
+in the graph domain, the OOD part may contain nodes that are comparable in size to the ID part. 
 
 (taken from "Learning on Graphs with Out-of-Distribution Nodes", KDD 2022)
 
@@ -26,9 +25,9 @@ TODO.
 KDD 2023. A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability.
 [[paper]](http://shichuan.org/doc/150.pdf)
 [[code]](https://github.com/BUPT-GAMMA/AAGOD)
->- Graph-level, training without outlier exposure.
+>- Graph-level, post-hoc, training without outlier exposure.
 
-🔥 ICLR 2023. ENERGY-BASED OUT-OF-DISTRIBUTION DETECTION FOR GRAPH NEURAL NETWORKS.
+🔥 ICLR 2023. Energy-based out-of-distribution detection for graph neural networks.
 [[paper]](https://arxiv.org/pdf/2302.02914.pdf)
 [[code]](https://github.com/qitianwu/GraphOOD-GNNSafe)
 >- Node-level with two disconnected graphs, Energy-based score with pagerank-based propagation.
@@ -59,7 +58,7 @@ KDD 2022. Learning on Graphs with Out-of-Distribution Nodes.
 WSDM 2022. Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation.
 [[paper]](https://arxiv.org/pdf/2112.10063.pdf)
 [[code]](https://github.com/RongrongMa/GLocalKD)
->- Graph-level Anomaly Detection, Joint random distillation of graph and node representations with two GNNs.
+>- Graph-level Anomaly Detection, Joint random distillation of graph and node representations with two GNNs (GLocalKD).
 
 ICML workshop 2022. Towards OOD Detection in Graph Classification from Uncertainty Estimation Perspective.
 [[paper]](https://arxiv.org/pdf/2206.10691.pdf)
@@ -71,7 +70,7 @@ NeurIPS 2021. Graph Posterior Network: Bayesian Predictive Uncertainty for Node 
 
 Big Data 2021. On Using Classification Datasets to Evaluate Graph Outlier Detection: Peculiar Observations and New Insights.
 [[paper]](https://arxiv.org/pdf/2012.12931.pdf)
->- Graph-level, Propagation-based outlier detection.
+>- Graph-level, Propagation-based outlier detection method (OCGIN).
 
 NeurIPS 2020. Uncertainty Aware Semi-Supervised Learning on Graph Data.
 [[paper]](https://proceedings.neurips.cc/paper/2020/file/968c9b4f09cbb7d7925f38aea3484111-Paper.pdf)
