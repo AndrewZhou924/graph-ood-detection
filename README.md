@@ -6,17 +6,21 @@
 
 TODO: we need to give a formal definition to the node/link/graph-level OOD detection problem.
 
-### Relation with the anomaly detection problem
+### Relation to the anomaly detection problem
 
-Unlike traditional anomaly detection which assumes a small percentage of anomalies, 
+Unlike traditional anomaly detection, which assumes a small percentage of anomalies, 
 in the graph domain, 
 the OOD part may contain nodes that are comparable in size to the ID part. 
 
 (taken from "Learning on Graphs with Out-of-Distribution Nodes", KDD 2022)
 
-Anomaly graphs are usually malicious samples from a real system and available during train- ing; while OOD graphs are samples from the distribution that the model has not seen during training.
+Anomaly graphs are usually malicious samples from a real system and available during training; while OOD graphs are samples from the distribution that the model has not seen during training.
 
 (taken from "A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability", KDD 2023)
+
+### Relation to the uncertainty estimation 
+
+TODO.
 
 ## Recent works
 KDD 2023. A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability.
@@ -33,6 +37,9 @@ WSDM 2023. GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection
 [[paper]](https://arxiv.org/pdf/2211.04208.pdf)
 [[code]](https://github.com/yixinliu233/G-OOD-D)
 >- Graph-level, Self-supervised contrastive learning.
+
+ICLR 2023 submission. Revisiting Uncertainty Estimation for Node Classification: New Benchmark and Insights
+[[paper]](https://openreview.net/pdf?id=DB3BH3arU2Y)
 
 NeurIPS 2022. GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs.
 [[paper]](https://openreview.net/pdf?id=mSiPuHIP7t8)
