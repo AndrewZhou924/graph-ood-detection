@@ -66,10 +66,18 @@ NeurIPS 2020. Uncertainty Aware Semi-Supervised Learning on Graph Data.
 ICLR 2023 submission. Revisiting Uncertainty Estimation for Node Classification: New Benchmark and Insights
 [[paper]](https://openreview.net/pdf?id=DB3BH3arU2Y)
 
+NeurIPS 2022. Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection.
+[[paper]](https://openreview.net/pdf?id=d6mf9AFoR-O)
+[[code]](https://github.com/graph-level-anomalies/iGAD)
+
 🔥 ICML 2022. Rethinking Graph Neural Networks for Anomaly Detection.
 [[paper]](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf)
 [[code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
 >- Anomalies leads to the ‘right-shift’ of spectral energy.
+
+IJCAI 2022. Raising the Bar in Graph-level Anomaly Detection.
+[[paper]](https://arxiv.org/pdf/2205.13845.pdf)
+[[code]](https://github.com/boschresearch/GraphLevel-AnomalyDetection)
 
 WSDM 2022. Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation.
 [[paper]](https://arxiv.org/pdf/2112.10063.pdf)
