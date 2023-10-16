@@ -1,10 +1,7 @@
 # Awesome Graph OOD Detection
 
-## The research problem
-
-### Definition
-
-TODO: we need to give a formal definition to the node/link/graph-level OOD detection problem.
+A curated list of resources for OOD detection with graph data.  
+If some related papers are missing, please contact us via pull requests :)
 
 ### Relation to the anomaly detection problem
 
@@ -17,9 +14,6 @@ Anomaly graphs are usually malicious samples from a real system and available du
 
 (taken from "A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability", KDD 2023)
 
-### Relation to the uncertainty estimation 
-
-TODO.
 
 ## Recent works
 ### Graph-level OOD detection
