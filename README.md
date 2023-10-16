@@ -1,4 +1,4 @@
-# Awesome Graph OOD Detection
+# Graph OOD Detection
 
 A curated list of resources for OOD detection with graph data.  
 If some related papers are missing, please contact us via pull requests :)
