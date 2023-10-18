@@ -57,6 +57,10 @@ NeurIPS 2020. Uncertainty Aware Semi-Supervised Learning on Graph Data.
 >- Node-level, a Graph-based Kernel Dirichlet distribution Estimation (GKDE) method.
 
 ### Anomaly Detection
+NeurIPS 2023. GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection.
+[[paper]](https://arxiv.org/pdf/2306.12251.pdf)
+[[code]](https://github.com/squareRoot3/GADBench)
+
 ICLR 2023 submission. Revisiting Uncertainty Estimation for Node Classification: New Benchmark and Insights
 [[paper]](https://openreview.net/pdf?id=DB3BH3arU2Y)
 
