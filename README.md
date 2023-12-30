@@ -86,7 +86,8 @@ Big Data 2021. On Using Classification Datasets to Evaluate Graph Outlier Detect
 [[paper]](https://arxiv.org/pdf/2012.12931.pdf)
 >- Graph-level, Propagation-based outlier detection method (OCGIN).
 
-## Other resources
+[pygod-team/pygod](https://github.com/pygod-team/pygod)
+
 ### OOD Generalization
 - Arxiv 2022. Out-Of-Distribution Generalization on Graphs: A Survey.
 [paper](https://arxiv.org/pdf/2202.07987.pdf)
